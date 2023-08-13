@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and OpenSource
 - 🌱 I’m currently learning Go and Ansible
 - 💞️ I’m looking to collaborate on OpenSource
-- 📫 How to reach me gmail.
+- 📫 How to reach me - email.
 
 <!---
 Ganzabahl/Ganzabahl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
