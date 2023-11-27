@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ganzabahl
-- 👀 I’m interested in Development and OpenSource
-- 🌱 I’m currently learning Go and Ansible
-- 💞️ I’m looking to collaborate on OpenSource
+- 👀 I’m interested in Development, Security and OpenSource
+- 🌱 I’m currently leveling up on Go and Ansible
+- 💞️ I’m looking to collaborate on SecOps related OpenSource
 - 📫 How to reach me - email.
 
 <!---
